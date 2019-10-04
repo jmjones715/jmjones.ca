@@ -1,0 +1,18 @@
+:root {
+  --color-primary-gold: #ad974f;
+  --color-primary-gold-dark: #8e793e;
+  --color-secondary-gray: #eaeaea;
+  --color-tertiary-dark: #231f20;
+
+  --font-primary: "Open Sans", sans-serif;
+  --font-secondary: "Proxima Nova", sans-serif;
+}
+
+html {
+  font-family: var(--font-primary);
+}
+
+h1 {
+  font-family: var(--font-secondary);
+  color: var(--color-secondary-gray);
+}

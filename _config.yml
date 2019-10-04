@@ -1,3 +1,29 @@
 permalink: pretty
 
 theme: jekyll_patternbot
+
+patternbot:
+  title: "JM Jones"
+  description: |
+    Graphic Designer, UX & UI Designer
+  font_url: "https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700,800,900|Raleway:300,400,600,700,800,900"
+  colors:
+    background: "--color-secondary-gray"
+    accent: "--color-primary-gold"
+    patterns:
+      brand.logos: "--color-tertiary-dark"
+      brand.colours: "white"
+      typography.headings: "white"
+      buttons.ghost: "--color-tertiary-dark"
+      buttons.ghost-light: "--color-tertiary-dark"
+  rationales:
+    colors.primary: |
+      A gold colour was chosen to represent a more high-end and classy mood. It sets the tone for the site, and contrasts well against darker colours.
+    colors.secondary: |
+      This gray was chosen as a more neutral tone whic still allows the site to look clean and modern.
+    colors.accent: |
+      This colour was chosenmostly for the footer and body copy text, on whie sections.
+    typefaces.primary: |
+      Raleway was chosen because it is great for body copy text. It is also a simple font that suits a modern/classy theme.
+    typefaces.secondary: |
+      Montserratwas chosen to be used fo headings. Its a bigger font, but still keeps that same modern feel.
