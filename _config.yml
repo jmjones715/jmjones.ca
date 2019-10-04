@@ -6,7 +6,8 @@ patternbot:
   title: "JM Jones"
   description: |
     Graphic Designer, UX & UI Designer
-  font_url: "https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700,800,900|Raleway:300,400,600,700,800,900"
+  font_url: "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800,900"
+  font_url: "https://use.typekit.net/bis5ofn.css"
   colors:
     background: "--color-secondary-gray"
     accent: "--color-primary-gold"
@@ -24,6 +25,6 @@ patternbot:
     colors.accent: |
       This colour was chosenmostly for the footer and body copy text, on whie sections.
     typefaces.primary: |
-      Raleway was chosen because it is great for body copy text. It is also a simple font that suits a modern/classy theme.
+      Open Sans was chosen for its accessibility and readability. It is also a font I use as a part of my brand, so using it here makes my brand more consistent.
     typefaces.secondary: |
-      Montserratwas chosen to be used fo headings. Its a bigger font, but still keeps that same modern feel.
+      Proxima Nova was chosen to be used fo headings. Its a slightly bolder font that matches my brand well. It is also a very readable font which is ideal for websites.

@@ -1,8 +1,10 @@
 :root {
-  --color-primary-gold: #ad974f;
-  --color-primary-gold-dark: #8e793e;
-  --color-secondary-gray: #eaeaea;
-  --color-tertiary-dark: #231f20;
+  --color-primary-blue: #8dc6e8;
+  --color-primary-dark-blue: #4babd6;
+  --color-secondary-gray: #898a8d;
+  --color-secondary-dark-gray: #636569;
+  --color-tertiary-green: #e3f3f3;
+  --color-tertiary-dark-green: #Cee7e8;
 
   --font-primary: "Open Sans", sans-serif;
   --font-secondary: "Proxima Nova", sans-serif;
