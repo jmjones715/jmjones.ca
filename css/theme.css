@@ -4,7 +4,7 @@
   --color-secondary-gray: #898a8d;
   --color-secondary-dark-gray: #636569;
   --color-tertiary-green: #e3f3f3;
-  --color-tertiary-dark-green: #Cee7e8;
+  --color-tertiary-dark-green: #cee7e8;
 
   --font-primary: "Open Sans", sans-serif;
   --font-secondary: "Proxima Nova", sans-serif;
@@ -16,5 +16,30 @@ html {
 
 h1 {
   font-family: var(--font-secondary);
-  color: var(--color-secondary-gray);
+  color: var(--color-secondary-dark-gray);
+}
+
+h2 {
+  font-family: var(--font-secondary);
+  color: var(--color-secondary-dark-gray);
+}
+
+h3 {
+  font-family: var(--font-secondary);
+  color: var(--color-secondary-dark-gray);
+}
+
+h4 {
+  font-family: var(--font-secondary);
+  color: var(--color-secondary-dark-gray);
+}
+
+h5 {
+  font-family: var(--font-secondary);
+  color: var(--color-primary-blue);
+}
+
+h6 {
+  font-family: var(--font-secondary);
+  color: var(--color-primary-blue);
 }
