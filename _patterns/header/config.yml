@@ -6,6 +6,4 @@ patterns:
   header:
     title: "Header"
     description: |
-      The primary navigation of the site. It has a transparent background, so it can be used over banner images.
-    colors:
-      background: "--color-tertiary-dark"
+      The primary navigation of the site. It has a dropshadow, and turns into a hamburger mun on smaller screen sizes.
