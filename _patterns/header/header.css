@@ -1,0 +1,32 @@
+.light-gray {
+  color: #eaeaea;
+}
+
+.masthead-main {
+  background-color: var(--color-tertiary-dark);
+}
+
+@media only screen and (min-width: 38em) {
+
+  .nav {
+    text-align: right;
+  }
+
+  .logo-nav {
+    text-align: left;
+  }
+
+  .masthead-main {
+    position: absolute;
+    background-color: transparent;
+  }
+
+  .no-pad-b {
+    padding-bottom: 0;
+  }
+
+  .icon-pad {
+    padding: .545rem;
+  }
+
+}

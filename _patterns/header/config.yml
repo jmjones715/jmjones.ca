@@ -1,0 +1,11 @@
+title: "Header"
+description:
+  The primary site navigation, which also includes the brand logo.
+
+patterns:
+  header:
+    title: "Header"
+    description: |
+      The primary navigation of the site. It has a transparent background, so it can be used over banner images.
+    colors:
+      background: "--color-tertiary-dark"
