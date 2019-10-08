@@ -1,8 +1,6 @@
 .btn {
-  border-color: var(--color-primary-gold);
   color: var(--color-secondary-gray);
   border-color: var(--color-secondary-gray);
-  border-radius: 8px;
 }
 
 .btn:hover {
