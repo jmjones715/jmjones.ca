@@ -55,7 +55,7 @@ a {
 }
 
 a:hover {
-  color: var(--color-primary-blue);
+  color: var(--color-primary-dark-blue);
 }
 
 .a-dark {
@@ -68,4 +68,13 @@ a:hover {
 
 mark {
   background-color: var(--color-tertiary-dark-green);
+}
+
+.semi-bold {
+  font-family: var(--font-secondary);
+  font-weight: 600;
+}
+
+.dark-gray {
+  color: var(--color-secondary-dark-gray);
 }

@@ -1,13 +1,6 @@
-.dark-gold-background {
-  background-color: var(--color-primary-gold-dark);
-}
-
-.dark-gray-background {
-  background-color: var(--color-tertiary-dark);
-}
-
-.masthead {
-  background-color: var(--color-tertiary-dark);
+.drop-shadow {
+  background-color: white;
+  box-shadow: 10px 10px 8px #888888;
 }
 
 @media only screen and (min-width: 38em) {

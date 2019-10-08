@@ -1,6 +1,25 @@
 input {
-  border: 2px solid;
-  border-color: var(--color-primary-blue);
+  border: 2px solid var(--color-primary-blue);
+  font-family: var(--font-secondary);
+  font-size: 600;
   border-radius: 24px;
-  padding: 12rem 20rem;
+  width: 100%;
+  padding: 5rem 6rem 6rem 5rem;
+}
+
+input:focus {
+  border: 2px solid var(--color-primary-dark-blue);
+}
+
+textarea {
+  border: 2px solid var(--color-primary-blue);
+  font-family: var(--font-secondary);
+  font-size: 600;
+  border-radius: 24px;
+  width: 100%;
+  padding: 1rem 1rem 1rem 1rem;
+}
+
+textarea:focus {
+  border: 2px solid var(--color-primary-dark-blue);
 }
