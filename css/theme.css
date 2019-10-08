@@ -49,6 +49,7 @@ p {
 }
 
 a {
+  font-family: var(--font-secondary);
   color: var(--color-secondary-gray);
 }
 
@@ -63,7 +64,6 @@ a:hover {
 .a-dark:hover {
   color: var(--color-primary-dark-blue);
 }
-
 
 mark {
   background-color: var(--color-tertiary-dark-green);

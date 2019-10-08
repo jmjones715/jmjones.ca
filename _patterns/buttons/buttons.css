@@ -1,9 +1,12 @@
 .btn {
+  background-color: transparent;
   color: var(--color-secondary-gray);
   border-color: var(--color-secondary-gray);
+  border-radius: 20px;
 }
 
 .btn:hover {
+  background-color: transparent;
   border-color: var(--color-primary-dark-blue);
   color: var(--color-primary-dark-blue);
 }
