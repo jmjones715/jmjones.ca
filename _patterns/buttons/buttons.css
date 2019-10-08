@@ -1,8 +1,12 @@
 .btn {
   background-color: transparent;
-  color: var(--color-secondary-gray);
-  border-color: var(--color-secondary-gray);
+  color: var(--color-secondary-gray-light);
+  border-color: var(--color-secondary-gray-light);
   border-radius: 20px;
+  border-width: 3.5px;
+  padding: 0.395rem 1.5rem;
+  font-family: var(--font-secondary);
+  font-weight: 700;
 }
 
 .btn:hover {
