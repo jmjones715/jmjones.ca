@@ -1,0 +1,37 @@
+title: "Buttons"
+description:
+  Buttons are used for a dramatic call to action.
+
+patterns:
+  basic:
+    title: "Basic"
+    description: |
+      Default to using the basic button
+    fields:
+      - name: text
+        type: string
+        example: "View Watches"
+  ghost-dark:
+    title: "Ghost Dark"
+    description: |
+      Button with a dark gray border
+    fields:
+      - name: text
+        type: string
+        example: "View Watch"
+  ghost-gold:
+    title: "Ghost Gold"
+    description: |
+      Button with a dark gold border
+  ghost-light:
+    title: "Ghost Light"
+    description: |
+      Button with a light gray border. Used for dark backgrounds
+  ghost:
+    title: "Ghost"
+    description: |
+      Button with a gold border. Used for dark backgrounds
+  see-more-btn:
+    title: "See More Button"
+    description: |
+      A standard button inside a gray section. Used to divide content.
