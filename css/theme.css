@@ -79,6 +79,10 @@ mark {
   color: var(--color-secondary-dark-gray);
 }
 
+.main-blue {
+  color: var(--color-primary-blue);
+}
+
 .proxy-nova {
   font-family: var(--font-secondary);
 }

@@ -2,6 +2,23 @@ svg:hover {
   fill: #4babd6;
 }
 
-svg {
-  width: 70px;
-  height: 70px;
+.green {
+  background-color: var(--color-tertiary-green);
+}
+
+.dark-gray {
+  color: var(--color-secondary-dark-gray);
+}
+
+.main-blue {
+  color: var(--color-primary-blue);
+}
+
+.proxy-nova {
+  font-family: var(--font-secondary);
+}
+
+.semi-bold {
+  font-family: var(--font-secondary);
+  font-weight: 600;
+}
