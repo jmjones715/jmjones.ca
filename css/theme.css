@@ -78,3 +78,7 @@ mark {
 .dark-gray {
   color: var(--color-secondary-dark-gray);
 }
+
+.proxy-nova {
+  font-family: var(--font-secondary);
+}
