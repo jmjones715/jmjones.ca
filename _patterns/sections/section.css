@@ -2,10 +2,15 @@
   background-image: linear-gradient(rgba(255,0,0,0), rgba(241,250,254,100));
 }
 
+.gray-gradient-full {
+  background-image: linear-gradient(to top right, rgba(219,218,218,100), rgba(243,243,243,100), rgba(255,255,255,100));
+  height: 714px;
+}
+
 .gray-gradient {
   background-image: linear-gradient(to right, rgba(255,255,255,100), rgba(243,243,243,100), rgba(219,218,218,100));
   background-size: cover;
-  height: 390px;
+  height: 380px;
   width: 100vw;
   margin-top: 0rem;
 }
@@ -13,6 +18,12 @@
 .img-size {
   height: 320px;
   width: 320px;
+}
+
+.logo-size-final {
+  height: 545px;
+  width: 545px;
+  padding-left: 2.6rem;
 }
 
 .no-pad-t {
@@ -88,6 +99,10 @@
     padding-top: 2.5rem
   }
 
+  .margin-r {
+    margin-right: 4rem;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -151,7 +166,7 @@
   }
 
   .pad-t-extra-l {
-    padding-top: 4.2rem
+    padding-top: 4.9rem
   }
 
   .pad-left-l {
@@ -167,9 +182,13 @@
   }
 
   .pad-t-img-l {
-    padding-top: 2.14rem
+    padding-top: 2.85rem
   }
 
+}
+
+.push-0-l {
+  margin-bottom: 0;
 }
 
 @media only screen and (min-width: 90em) {
@@ -193,7 +212,7 @@
   }
 
   .pad-t-extra-xl {
-    padding-top: 6.7rem
+    padding-top: 7.6rem
   }
 
   .pad-left-xl {
@@ -205,7 +224,7 @@
   }
 
   .pad-t-img-xl {
-    padding-top: 1.42rem
+    padding-top: 2.18rem
   }
 
   .pad-right-xl {
