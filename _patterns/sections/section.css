@@ -1,0 +1,169 @@
+.blue-gradient {
+  background-image: linear-gradient(rgba(255,0,0,0), rgba(241,250,254,100));
+}
+
+.gray-gradient {
+  background-image: linear-gradient(to right, rgba(255,255,255,100), rgba(243,243,243,100), rgba(219,218,218,100));
+  background-size: cover;
+  height: 390px;
+  width: 100vw;
+  margin-top: 0rem;
+}
+
+.img-size {
+  height: 320px;
+  width: 320px;
+}
+
+.no-pad-t {
+  padding-top: 0;
+}
+
+.extra-bold {
+  font-weight: 800;
+}
+
+.pad-t-extra {
+  padding-top: 2rem
+}
+
+.pad-left {
+  padding-left: 1.5rem;
+}
+
+.pad-left-img {
+  padding-left: 3rem;
+}
+
+.pad-t-img {
+  padding-top: 2.3rem
+}
+
+@media only screen and (min-width: 25em) {
+
+
+  .no-pad-b {
+    padding-bottom: 0;
+  }
+
+  .img-size-s {
+    height: 400px;
+    width: 400px;
+  }
+
+  .pad-left-img-s {
+    padding-left: 2rem;
+  }
+
+  .pad-t-img-s {
+    padding-top: 2.3rem
+  }
+
+}
+
+@media only screen and (min-width: 38em) {
+
+  .gray-gradient-m {
+    background-image: linear-gradient(to right, rgba(255,255,255,100), rgba(243,243,243,100), rgba(219,218,218,100));
+    background-size: cover;
+    height: 460px;
+    width: 100vw;
+    margin-top: 0rem;
+  }
+
+  .no-pad-b {
+    padding-bottom: 0;
+  }
+
+  .img-size-m {
+    height: 600px;
+    width: 600px;
+  }
+
+  .pad-left-img-l {
+    padding-left: 3rem;
+  }
+
+  .pad-t-img-m {
+    padding-top: 2.5rem
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .jm-exa {
+    font-size: 4.5rem;
+    line-height: 7.475rem;
+  }
+
+  .jm-peta {
+    font-size: 3.2rem;
+    line-height: 5.2rem;
+  }
+
+  .jm-tera {
+    font-size: 2.45rem;
+    line-height: 3.9rem;
+  }
+
+  .jm-giga {
+    font-size: 1.68rem;
+    line-height: 2.6rem;
+  }
+
+  .jm-mega {
+    font-size: 1.25rem;
+    line-height: 1.95rem;
+  }
+
+  .jm-kilo {
+    font-size: .825rem;
+    line-height: 1.3rem;
+  }
+
+  .jm-max-length {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 42em;
+    width: 100%;
+  }
+
+  .gray-gradient-l {
+    background-image: linear-gradient(to right, rgba(255,255,255,100), rgba(243,243,243,100), rgba(219,218,218,100));
+    background-size: cover;
+    height: 425px;
+    width: 100vw;
+    margin-top: 5.15rem;
+  }
+
+  .no-pad-b {
+    padding-bottom: 0;
+  }
+
+  .left {
+    text-align: left;
+  }
+
+  .img-size-l {
+    height: 800px;
+    width: 800px;
+  }
+
+  .pad-t-extra-l {
+    padding-top: 7.25rem
+  }
+
+  .pad-left-l {
+    padding-left: 7rem;
+  }
+
+  .pad-left-img-l {
+    padding-left: 3rem;
+  }
+
+  .pad-t-img-l {
+    padding-top: 1.858rem
+  }
+
+}

@@ -33,6 +33,7 @@ h3 {
 h4 {
   font-family: var(--font-secondary);
   color: var(--color-secondary-dark-gray);
+  font-weight: 800;
 }
 
 h5 {
@@ -70,6 +71,10 @@ mark {
   background-color: var(--color-tertiary-dark-green);
 }
 
+strong {
+  color: var(color-primary-dark-blue);
+}
+
 .semi-bold {
   font-family: var(--font-secondary);
   font-weight: 600;
@@ -85,4 +90,34 @@ mark {
 
 .proxy-nova {
   font-family: var(--font-secondary);
+}
+
+.jm-exa {
+  font-size: 4.5rem;
+  line-height: 7.475rem;
+}
+
+.jm-peta {
+  font-size: 3.2rem;
+  line-height: 5.2rem;
+}
+
+.jm-tera {
+  font-size: 2.45rem;
+  line-height: 3.9rem;
+}
+
+.jm-giga {
+  font-size: 1.68rem;
+  line-height: 2.6rem;
+}
+
+.jm-mega {
+  font-size: 1.25rem;
+  line-height: 1.95rem;
+}
+
+.jm-kilo {
+  font-size: .825rem;
+  line-height: 1.3rem;
 }
