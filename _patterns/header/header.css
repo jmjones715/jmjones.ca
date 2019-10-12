@@ -35,16 +35,16 @@
   padding-bottom: .65rem;
 }
 
+.i-40 {
+  height: 40px;
+  width: 40px;
+}
+
 @media only screen and (min-width: 38em) {
 
-  .jm-kilo {
-    font-size: .825rem;
-    line-height: 1.3rem;
-  }
-
-  .i-38 {
-    height: 38px;
-    width: 38px;
+  .i-30 {
+    height: 30px;
+    width: 30px;
   }
 
   .nav {
@@ -66,5 +66,15 @@
   .icon-pad {
     padding: .545rem;
   }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .i-35 {
+    height: 35px;
+    width: 35px;
+  }
+
 
 }

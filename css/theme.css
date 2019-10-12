@@ -18,6 +18,7 @@ html {
 h1 {
   font-family: var(--font-secondary);
   color: var(--color-secondary-dark-gray);
+  font-weight: 800;
 }
 
 h2 {
@@ -28,12 +29,13 @@ h2 {
 h3 {
   font-family: var(--font-secondary);
   color: var(--color-secondary-dark-gray);
+  font-weight: 800;
 }
 
 h4 {
   font-family: var(--font-secondary);
-  color: var(--color-secondary-dark-gray);
-  font-weight: 800;
+  color: var(--color-primary-blue);
+  font-weight: 700;
 }
 
 h5 {
@@ -80,6 +82,10 @@ strong {
   font-weight: 600;
 }
 
+.extra-bold {
+  font-weight: 800;
+}
+
 .dark-gray {
   color: var(--color-secondary-dark-gray);
 }
@@ -99,7 +105,7 @@ strong {
 
 .jm-peta {
   font-size: 3.2rem;
-  line-height: 5.2rem;
+  line-height: 3.6rem;
 }
 
 .jm-tera {
@@ -108,12 +114,12 @@ strong {
 }
 
 .jm-giga {
-  font-size: 1.68rem;
+  font-size: 1.64rem;
   line-height: 2.6rem;
 }
 
 .jm-mega {
-  font-size: 1.25rem;
+  font-size: 1.18rem;
   line-height: 1.95rem;
 }
 

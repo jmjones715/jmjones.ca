@@ -1,0 +1,29 @@
+.footer-background {
+  background-color: yellow;
+}
+
+.jm-i-192 {
+  height: 49.52px;
+  width: 160px;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .align-left {
+    text-align: left;
+  }
+
+  .align-right {
+    text-align: right;
+  }
+
+  .no-pad-t {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .no-pad-b {
+    padding-bottom: 0;
+  }
+
+}
