@@ -7,6 +7,10 @@
   width: 160px;
 }
 
+.push-r {
+  margin-right: 1.3rem;
+}
+
 @media only screen and (min-width: 38em) {
 
   .align-left {
@@ -24,6 +28,10 @@
 
   .no-pad-b {
     padding-bottom: 0;
+  }
+
+  .push-r-1-4 {
+    margin-right: 0.65rem;
   }
 
 }

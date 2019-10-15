@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="grid grid-middle gray-gradient-contact pad-t-3-4-s pad-t-3-4-l pad-b-3-4 contact-pad-b-3-4 gutter contact-gutter-2">
+  <div class="unit xs-1 s-1 m-1 l-1-2 push-2 push-0-l">
+    <img class="img-flex" src="/images/jm-cards.png" alt="business-cards">
+  </div>
+
+  <div class="unit xs-1 s-1 m-1 l-1-2">
+    <div class="grid contact-pad-left-l contact-pad-left-xl">
+      <h3 class="unit xs-1 jm-giga text-center contact-text-left">Let’s Get Started.</h3>
+
+        <div class="unit xs-1 s-1 m-1 l-1-2 push-1-2 gutter-r-1-2 gutter-r no-gutter-r-1-2">
+          {% pattern forms/first-name %}
+        </div>
+
+        <div class="unit xs-1 s-1 m-1 l-1-2 push-1-2 gutter-l-1-2 gutter-l no-gutter-l-1-2">
+          {% pattern forms/last-name %}
+        </div>
+
+        <div class="unit xs-1 s-1 m-1 l-1-2 push-1-2 gutter-r-1-2 gutter-r no-gutter-r-1-2">
+          {% pattern forms/email %}
+        </div>
+
+        <div class="unit xs-1 s-1 m-1 l-1-2 push-1-2 gutter-l-1-2 gutter-l no-gutter-l-1-2">
+          {% pattern forms/subject %}
+        </div>
+
+        <div class="unit xs-1 push-2">
+          {% pattern forms/message %}
+        </div>
+
+        <ul class="list-group-inline push-0-m unit text-center contact-text-left xs-1">
+          <li class="gutter-1-2 no-gutter-left">{% pattern buttons/basic text="contact me" %}</li>
+          <li class="gutter-1-2"><a class="bold link-box jm-kilo resume-padding" href="#">view resume</a></li>
+        </ul>
+
+    </div>
+  </div>
+
+</div>

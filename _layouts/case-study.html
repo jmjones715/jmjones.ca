@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-ca">
 <head>
   <meta charset="utf-8">
@@ -12,7 +11,11 @@
 <body>
 
   {% pattern header/header %}
+  <div class="case-pad-t-3-4-s case-pad-t-3-4-l">
+    {% pattern banners/case-study-banner %}
+  </div>
   {{content}}
+  {% pattern navigation/previous-and-next %}
   {% pattern footer/footer %}
 </body>
 </html>
