@@ -14,6 +14,10 @@
   background-image: linear-gradient(to right, rgba(75,171,214,100), rgba(141,198,232,100));
 }
 
+.services-gradient-gray {
+  background-image: linear-gradient(to top right, rgba(219,218,218,100), rgba(243,243,243,100), rgba(255,255,255,100));
+}
+
 .img-size {
   height: 320px;
   width: 320px;
@@ -152,6 +156,14 @@
     padding-left: 1.4rem;
   }
 
+  .pad-right-2 {
+    padding-right: 1.4rem;
+  }
+
+  .pad-right-6 {
+    padding-right: 6rem;
+  }
+
   .margin-r-l {
     margin-right: 1rem;
     margin-bottom: 0;
@@ -221,6 +233,14 @@
 
   .pad-left-4 {
     padding-left: 4rem;
+  }
+
+  .pad-right-4 {
+    padding-right: 4rem;
+  }
+
+  .pad-right-13 {
+    padding-right: 13rem;
   }
 
   .margin-r-xl {

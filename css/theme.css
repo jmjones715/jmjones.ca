@@ -254,6 +254,10 @@ strong {
     padding-top: 4rem;
   }
 
+  .about-pad-t-3-4-m {
+    padding-top: 2rem;
+  }
+
   .no-margin-b {
     margin-bottom: 0rem;
   }
@@ -336,6 +340,10 @@ strong {
     margin-bottom: 1.8rem;
   }
 
+  .about-pad-t-3-4-l {
+    padding-top: 1.7rem;
+  }
+
 }
 
 @media only screen and (min-width: 90em) {
@@ -361,6 +369,10 @@ strong {
 
   .contact-pad-left-xl {
     padding-left: 4rem;
+  }
+
+  .about-pad-t-3-4-xl {
+    padding-top: 1.3rem;
   }
 
 }
