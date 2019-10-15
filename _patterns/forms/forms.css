@@ -7,6 +7,7 @@ input.input {
   padding: .3rem 1rem .3rem 1rem;
   height: auto;
   background-color: transparent;
+  color: var(--color-secondary-dark-gray);
 }
 
 input.input:focus {
@@ -21,6 +22,7 @@ textarea {
   width: 100%;
   padding: 1rem 1rem 1rem 1rem;
   background-color: transparent;
+  color: var(--color-secondary-dark-gray);
 }
 
 textarea:focus {

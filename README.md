@@ -14,6 +14,7 @@ I believe that a good design should not only look nice, but also have a reason â
 - [GitHub] (https://github.com/jmjones715)
 - [Facebook] (https://www.facebook.com/jm.jones.graphic)
 - [Instagram] (https://www.instagram.com/jm.jones.graphic/)
+- [Behance] (https://www.instagram.com/jm.jones.graphic/)
 
 ---
 

@@ -236,8 +236,8 @@ strong {
   height: 568px;
 }
 
-.gray-gradient-contact {
-  background-image: linear-gradient(to top right, rgba(219,218,218,100), rgba(243,243,243,100), rgba(255,255,255,100));
+.gray-gradient-contact-mobile {
+  background-image: linear-gradient(to bottom right, rgba(219,218,218,100), rgba(243,243,243,100), rgba(255,255,255,100));
 }
 
 @media only screen and (min-width: 38em) {
@@ -288,6 +288,10 @@ strong {
 
 @media only screen and (min-width: 60em) {
 
+  .gray-gradient-contact {
+    background-image: linear-gradient(to top right, rgba(219,218,218,100), rgba(243,243,243,100), rgba(255,255,255,100));
+  }
+
   .no-margin-t {
     margin-top: 0rem;
   }
@@ -326,6 +330,10 @@ strong {
 
   .contact-pad-left-l {
     padding-left: 1.5rem;
+  }
+
+  .push-contact {
+    margin-bottom: 1.8rem;
   }
 
 }

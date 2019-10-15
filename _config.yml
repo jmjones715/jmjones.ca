@@ -16,12 +16,11 @@ patternbot:
       brand.colours: "white"
       typography.headings: "white"
       buttons.ghost: "--color-tertiary-dark"
-      buttons.ghost-light: "--color-tertiary-dark"
   rationales:
     colors.primary: |
       A gold colour was chosen to represent a more high-end and classy mood. It sets the tone for the site, and contrasts well against darker colours.
     colors.secondary: |
-      This gray was chosen as a more neutral tone whic still allows the site to look clean and modern.
+      This gray was chosen as a more neutral tone which still allows the site to look clean and modern.
     colors.accent: |
       This colour was chosenmostly for the footer and body copy text, on whie sections.
     typefaces.primary: |
