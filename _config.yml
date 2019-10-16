@@ -12,17 +12,16 @@ patternbot:
     background:
     accent:
     patterns:
-      brand.logos:
+      brand.logos: "white"
       brand.colours: "white"
       typography.headings: "white"
-      buttons.ghost: "--color-tertiary-dark"
   rationales:
     colors.primary: |
       A gold colour was chosen to represent a more high-end and classy mood. It sets the tone for the site, and contrasts well against darker colours.
     colors.secondary: |
       This gray was chosen as a more neutral tone which still allows the site to look clean and modern.
     colors.accent: |
-      This colour was chosenmostly for the footer and body copy text, on whie sections.
+      This colour was chosen mostly for the footer and body copy text, on whie sections.
     typefaces.primary: |
       Open Sans was chosen for its accessibility and readability. It is also a font I use as a part of my brand, so using it here makes my brand more consistent.
     typefaces.secondary: |
