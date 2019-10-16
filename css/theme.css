@@ -165,8 +165,16 @@ strong {
   padding-top: 10.75rem;
 }
 
+.pad-t-6 {
+  padding-top: 6rem;
+}
+
 .case-pad-t-3-4-s {
   padding-top: 7.75rem;
+}
+
+.about-pad-t-s {
+  padding-top: 9rem;
 }
 
 .pad-b-3-4 {
@@ -240,7 +248,19 @@ strong {
   background-image: linear-gradient(to bottom right, rgba(219,218,218,100), rgba(243,243,243,100), rgba(255,255,255,100));
 }
 
+.about-gradient {
+  background-image: linear-gradient(to bottom, rgba(231,245,252,100), rgba(247,252,254,100), rgba(255,255,255,100));
+}
+
+.jm-img-s {
+  width: 85%;
+}
+
 @media only screen and (min-width: 38em) {
+
+  .jm-img-m {
+    width: 60%;
+  }
 
   .pad-t-3-4-l {
     padding-top: 6.75rem;
@@ -292,6 +312,14 @@ strong {
 
 @media only screen and (min-width: 60em) {
 
+  .jm-img-l {
+    width: 100%;
+  }
+
+  .about-pad-left-l {
+    padding-left: 1.6rem;
+  }
+
   .gray-gradient-contact {
     background-image: linear-gradient(to top right, rgba(219,218,218,100), rgba(243,243,243,100), rgba(255,255,255,100));
   }
@@ -340,16 +368,40 @@ strong {
     margin-bottom: 1.8rem;
   }
 
-  .about-pad-t-3-4-l {
-    padding-top: 1.7rem;
+  .about-pad-t-l {
+    padding-top: 6rem;
+  }
+
+  .about-gutter-left {
+    padding-left: 2.6rem;
+  }
+
+  .about-gutter-right {
+    padding-right: 16rem;
+  }
+
+  .what-i-do-push {
+    margin-bottom: 5.5rem;
   }
 
 }
 
 @media only screen and (min-width: 90em) {
 
+  .jm-img-xl {
+    width: 100%;
+  }
+
   .no-margin-t {
     margin-top: 0rem;
+  }
+
+  .about-pad-left-xl {
+    padding-left: 4rem;
+  }
+
+  .about-img-pad-left-xl {
+    padding-left: 2.6rem;
   }
 
   .case-max-length-xl {
@@ -371,8 +423,12 @@ strong {
     padding-left: 4rem;
   }
 
-  .about-pad-t-3-4-xl {
-    padding-top: 1.3rem;
+  .about-pad-t-xl {
+    padding-top: 3.8rem;
+  }
+
+  .marg-left-xl {
+    margin-left: 2.6rem;
   }
 
 }
