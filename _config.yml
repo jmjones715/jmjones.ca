@@ -5,7 +5,7 @@ theme: jekyll_patternbot
 patternbot:
   title: "JM Jones"
   description: |
-    Graphic Designer, UX & UI Designer
+    I'm JM; a graphic, UX & UI designer. If I'm not designing logos I'm most likely working out at the gym. I'm an eaqually paiionate designer and fitness junkie.
   font_url: "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800,900"
   font_url: "https://use.typekit.net/bis5ofn.css"
   colors:
@@ -15,7 +15,7 @@ patternbot:
       brand.logos: "white"
       brand.colours: "white"
       typography.headings: "white"
-      footer.footer: "--color-secondary-light-gray: #9d9c9c;"
+      footer.footer: "var(--color-secondary-light-gray)";
   rationales:
     colors.primary: |
       Blue is the primary brand colour. It was chosen to represent my brand, and also, to add a feel of trust and calmness throughout the site.
