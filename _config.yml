@@ -17,11 +17,11 @@ patternbot:
       typography.headings: "white"
   rationales:
     colors.primary: |
-      A gold colour was chosen to represent a more high-end and classy mood. It sets the tone for the site, and contrasts well against darker colours.
+      Blue is the primary brand colour. It was chosen to represent my brand, and also, to add a feel of trust and calmness throughout the site.
     colors.secondary: |
-      This gray was chosen as a more neutral tone which still allows the site to look clean and modern.
+      This gray was chosen as a more neutral tone which still allows the site to look clean and modern. It is also the secondary brand colour.
     colors.accent: |
-      This colour was chosen mostly for the footer and body copy text, on whie sections.
+      This colour was chosen for specifc section and actions such as the <mark> tag.
     typefaces.primary: |
       Open Sans was chosen for its accessibility and readability. It is also a font I use as a part of my brand, so using it here makes my brand more consistent.
     typefaces.secondary: |
