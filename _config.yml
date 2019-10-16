@@ -9,10 +9,10 @@ patternbot:
   font_url: "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800,900"
   font_url: "https://use.typekit.net/bis5ofn.css"
   colors:
-    background: "--color-secondary-gray"
-    accent: "--color-primary-gold"
+    background:
+    accent:
     patterns:
-      brand.logos: "--color-tertiary-dark"
+      brand.logos:
       brand.colours: "white"
       typography.headings: "white"
       buttons.ghost: "--color-tertiary-dark"
