@@ -15,7 +15,7 @@ patternbot:
       brand.logos: "white"
       brand.colours: "white"
       typography.headings: "white"
-      footer: "--color-secondary-light-gray: #9d9c9c;"
+      footer.footer: "--color-secondary-light-gray: #9d9c9c;"
   rationales:
     colors.primary: |
       Blue is the primary brand colour. It was chosen to represent my brand, and also, to add a feel of trust and calmness throughout the site.
