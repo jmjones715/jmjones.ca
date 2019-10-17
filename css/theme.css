@@ -256,6 +256,11 @@ strong {
   width: 85%;
 }
 
+.justify {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 @media only screen and (min-width: 38em) {
 
   .jm-img-m {
@@ -311,6 +316,15 @@ strong {
 }
 
 @media only screen and (min-width: 60em) {
+
+  .timeline-gutter-l {
+    padding-left: 6rem;
+    padding-right: 6rem;
+  }
+
+  .timeline-island-l {
+    padding: 3rem;
+  }
 
   .jm-img-l {
     width: 100%;
@@ -377,16 +391,29 @@ strong {
   }
 
   .about-gutter-right {
-    padding-right: 16rem;
+    padding-right: 12rem;
   }
 
   .what-i-do-push {
-    margin-bottom: 5.5rem;
+    margin-bottom: 4rem;
+  }
+
+  .no-pad-t {
+    padding-top: 0;
   }
 
 }
 
 @media only screen and (min-width: 90em) {
+
+  .timeline-gutter-xl {
+    padding-left: 6rem;
+    padding-right: 6rem;
+  }
+
+  .timeline-island-xl {
+    padding: 7rem;
+  }
 
   .jm-img-xl {
     width: 100%;
