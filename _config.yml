@@ -9,13 +9,6 @@ patternbot:
   font_url: "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800,900"
   font_url: "https://use.typekit.net/bis5ofn.css"
   colors:
-    background:
-    accent: "white"
-    patterns: "white"
-      brand.logos: "white"
-      brand.colours: "white"
-      typography.headings: "white"
-      footer.footer: "var(--color-secondary-light-gray)";
   rationales:
     colors.primary: |
       Blue is the primary brand colour. It was chosen to represent my brand, and also, to add a feel of trust and calmness throughout the site.
