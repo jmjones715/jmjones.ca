@@ -148,6 +148,10 @@ strong {
   line-height: 1.3rem;
 }
 
+.text-indent {
+  text-indent: 50px;
+}
+
 .gutter-l-1-2 {
   padding-left: .65rem;
 }
@@ -391,11 +395,11 @@ strong {
   }
 
   .about-gutter-right {
-    padding-right: 12rem;
+    padding-right: 11rem;
   }
 
   .what-i-do-push {
-    margin-bottom: 4rem;
+    margin-bottom: 3rem;
   }
 
   .no-pad-t {
@@ -407,8 +411,13 @@ strong {
 @media only screen and (min-width: 90em) {
 
   .timeline-gutter-xl {
-    padding-left: 6rem;
-    padding-right: 6rem;
+    padding-left: 5.7rem;
+    padding-right: 5.7rem;
+  }
+
+  .timeline-img-gutter-xl {
+    padding-left: 5rem;
+    padding-right: 5rem;
   }
 
   .timeline-island-xl {
@@ -424,7 +433,7 @@ strong {
   }
 
   .about-pad-left-xl {
-    padding-left: 4rem;
+    padding-left: 6rem;
   }
 
   .about-img-pad-left-xl {
