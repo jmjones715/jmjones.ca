@@ -1,9 +1,3 @@
 title: "Header"
 description:
-  The primary site navigation, which also includes the brand logo.
-
-patterns:
-  header:
-    title: "Header"
-    description: |
-      The primary navigation of the site. It has a dropshadow, and turns into a hamburger mun on smaller screen sizes.
+  The primary site navigation which also includes the brand logo. It has a dropshadow, and the links move underneath the logo on smaller screen sizes.

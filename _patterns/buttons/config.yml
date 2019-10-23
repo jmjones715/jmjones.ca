@@ -10,4 +10,4 @@ patterns:
     fields:
       - name: text
         type: string
-        example: "View Watches"
+        example: "contact me"

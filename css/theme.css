@@ -61,6 +61,10 @@ a:hover {
   color: var(--color-primary-dark-blue);
 }
 
+.current {
+  color: var(--color-primary-dark-blue);
+}
+
 .a-dark {
   color: var(color-secondary-dark-gray);
 }
@@ -173,6 +177,10 @@ strong {
   padding-top: 6rem;
 }
 
+.margin-t-6 {
+  margin-top: 6rem;
+}
+
 .case-pad-t-3-4-s {
   padding-top: 7.75rem;
 }
@@ -189,12 +197,23 @@ strong {
   margin-top: 1.3rem;
 }
 
+.margin-t-2 {
+  margin-top: 2.6rem;
+}
+
 .margin-b {
   margin-bottom: 1.3rem;
 }
 
 .resume-padding {
   padding: 0.35rem 1rem;
+}
+
+.max-length-sketches {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50em;
+  width: 100%;
 }
 
 .container {
@@ -241,6 +260,11 @@ strong {
 
 .no-gutter-r-1-2 {
   padding-right: 0rem;
+}
+
+.gutter-3 {
+  padding-left: 6rem;
+  padding-right: 6rem;
 }
 
 .gray-gradient-full-mobile {
