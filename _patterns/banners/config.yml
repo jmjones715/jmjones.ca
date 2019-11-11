@@ -1,12 +1,15 @@
 patterns:
-  image-card:
+  case-study-banner:
     title: "Case Study Banner"
     description: |
-      The <i>Image Card</i> is to be used on the homepage for showcasing the products and any other section of the website that contains product showcasing.
+      The is to be used on the homepage for showcasing the products and any other section of the website that contains product showcasing.
     fields:
-      - name: text
+      - name: title
         type: string
-        example: "contact me"
+        example: "Eagle's Nest"
+        - name: category
+          type: string
+          example: "Branding, Logo Design"
       - name: image
         type: string
         example: "eagles-nest-banner.jpg"

@@ -86,8 +86,8 @@ strong {
 }
 
 .semi-bold {
-  font-family: var(--font-secondary);
   font-weight: 600;
+  font-family: var(--font-primary);
 }
 
 .extra-bold {
@@ -216,6 +216,13 @@ strong {
   width: 100%;
 }
 
+.max-length-case-study {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 52em;
+  width: 100%;
+}
+
 .container {
   position: relative;
 }
@@ -282,6 +289,12 @@ strong {
 
 .jm-img-s {
   width: 85%;
+}
+
+.fifty {
+  width: 70%;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .justify {
@@ -377,6 +390,13 @@ strong {
     width: 100%;
   }
 
+  .pstate-max-length-l {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 40em;
+    width: 100%;
+  }
+
   .gray-gradient-full {
     background-image: linear-gradient(to top right, rgba(219,218,218,100), rgba(243,243,243,100), rgba(255,255,255,100));
     height: 714px;
@@ -430,6 +450,22 @@ strong {
     padding-top: 0;
   }
 
+  .case-study-pad-right {
+    padding-right: 4rem;
+  }
+
+  .case-study-pad-left {
+    padding-left: 4rem;
+  }
+
+  .center-l {
+    text-align: center;
+  }
+
+  .island-0 {
+    padding: 0;
+  }
+
 }
 
 @media only screen and (min-width: 90em) {
@@ -467,7 +503,7 @@ strong {
   .case-max-length-xl {
     margin-left: auto;
     margin-right: auto;
-    max-width: 60em;
+    max-width: 52em;
     width: 100%;
   }
 

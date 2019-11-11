@@ -32,6 +32,10 @@
   margin-top: 0rem;
 }
 
+.gray-gradient-problem {
+  background-image: linear-gradient(to right, rgba(255,255,255,100), rgba(243,243,243,100), rgba(219,218,218,100));
+}
+
 @media only screen and (min-width: 25em) {
 
   .gray-gradient {
@@ -240,6 +244,10 @@
     padding-left: 2.8rem;
   }
 
+  .pad-right-illus {
+    padding-right: 2.8rem;
+  }
+
   .pad-right-2 {
     padding-right: 1.4rem;
   }
@@ -325,6 +333,10 @@
 
   .pad-left-illus-xl {
     padding-left: 6.6rem;
+  }
+
+  .pad-right-illus-xl {
+    padding-right: 6.6rem;
   }
 
   .pad-right-4 {

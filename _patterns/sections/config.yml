@@ -1,0 +1,16 @@
+title: "Sections"
+description:
+  Sections.
+
+patterns:
+  problem-objective:
+    title: "Problem & Objective"
+    description: |
+      Go to previous or next work
+    fields:
+      - name: problem
+        type: string
+        example: "This is the problem that I, as a designer, needs to solve."
+      - name: objective
+        type: string
+        example: "This is the goal of the project; what am I trying to achieve."

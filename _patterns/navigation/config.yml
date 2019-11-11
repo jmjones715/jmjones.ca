@@ -1,0 +1,22 @@
+title: "Navigation"
+description:
+  Buttons are used for a dramatic call to action.
+
+patterns:
+  basic:
+    title: "previous-and-next"
+    description: |
+      Go to previous or next work
+    fields:
+      - name: previous
+        type: string
+        example: "Anocate"
+      - name: url-prev
+        type: url
+        example: "#"
+        - name: next
+          type: string
+          example: "The Granite Importer"
+        - name: url-next
+          type: url
+          example: "#"
