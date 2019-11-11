@@ -6,8 +6,22 @@ patterns:
   basic:
     title: "Basic"
     description: |
-      Default to using the basic button
+      Basic button for navigation
     fields:
       - name: text
         type: string
         example: "contact me"
+      - name: url
+        type: url
+        example: "/contact/"
+  basic-blue:
+    title: "Basic Blue"
+    description: |
+      The blue version of a basic button for navigation
+    fields:
+      - name: text
+        type: string
+        example: "view gallery"
+      - name: url
+        type: url
+        example: "/gallery/"

@@ -20,3 +20,5 @@ patternbot:
       Open Sans was chosen for its accessibility and readability. It is also a font I use as a part of my brand, so using it here makes my brand more consistent.
     typefaces.secondary: |
       Proxima Nova was chosen to be used fo headings. Its a slightly bolder font that matches my brand well. It is also a very readable font which is ideal for websites.
+  collections:
+    buttons:
