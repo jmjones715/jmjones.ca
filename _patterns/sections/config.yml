@@ -23,3 +23,27 @@ patterns:
       - name: text
         type: string
         example: "What is the final result? How does it solve the user problem?"
+
+  project-objective:
+    title: "Project Objective"
+    description: |
+      The goal of the project. What am I trying to achieve with the design?
+    fields:
+      - name: text
+        type: string
+        example: "What is the final result? How does it solve the user problem?"
+      - name: image
+        type: string
+        example: "/images/eagles-nest/eagles-nest-shaker-obj.png"
+
+  final-design:
+    title: "Final Design"
+    description: |
+      The goal of the project. What am I trying to achieve with the design?
+    fields:
+      - name: text
+        type: string
+        example: "This is the final design. Explain what the result is, what feedback has been recieved. Did the design achieve the project objective?"
+      - name: image
+        type: string
+        example: "/images/eagles-nest/eagles-nest-final.png"
