@@ -322,6 +322,12 @@ strong {
   text-justify: inter-word;
 }
 
+.sixty {
+  width: 60%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .fifty {
   width: 50%;
   margin-right: auto;
