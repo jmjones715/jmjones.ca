@@ -215,6 +215,22 @@ strong {
   margin-bottom: 1.3rem;
 }
 
+.pad-l-1-4 {
+  padding-left: .325rem;
+}
+
+.pad-r-1-4 {
+  padding-right: .325rem;
+}
+
+.pad-l-1-8 {
+  padding-left: .1625rem;
+}
+
+.pad-r-1-8 {
+  padding-right: .1625rem;
+}
+
 .resume-padding {
   padding: 0.35rem 1rem;
 }
@@ -308,6 +324,12 @@ strong {
 
 .fifty {
   width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.twenty {
+  width: 40%;
   margin-right: auto;
   margin-left: auto;
 }
