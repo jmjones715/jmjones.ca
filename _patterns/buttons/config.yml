@@ -25,3 +25,14 @@ patterns:
       - name: url
         type: url
         example: "/gallery/"
+  basic-white:
+    title: "Basic White"
+    description: |
+      The blue version of a basic button for navigation; for dark backgrounds
+    fields:
+      - name: text
+        type: string
+        example: "view example"
+      - name: url
+        type: url
+        example: "/anocate-app/"

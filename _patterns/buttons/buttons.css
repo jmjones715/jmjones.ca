@@ -25,3 +25,25 @@
   font-family: var(--font-secondary);
   font-weight: 700;
 }
+
+.btn-white {
+  background-color: transparent;
+  color: white;
+  border-color: white;
+  border-radius: 20px;
+  border-width: 3.4px;
+  padding: 0.35rem 1rem;
+  font-family: var(--font-secondary);
+  font-weight: 700;
+}
+
+.btn-white:hover {
+  background-color: transparent;
+  color: var(--color-tertiary-dark-green);
+  border-color: var(--color-tertiary-dark-green);
+  border-radius: 20px;
+  border-width: 3.4px;
+  padding: 0.35rem 1rem;
+  font-family: var(--font-secondary);
+  font-weight: 700;
+}

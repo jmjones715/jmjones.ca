@@ -52,6 +52,11 @@ p {
   color: var(--color-secondary-gray);
 }
 
+ul {
+  font-family: var(--font-primary);
+  color: var(--color-secondary-dark-gray);
+}
+
 a {
   font-family: var(--font-secondary);
   color: var(--color-secondary-gray);
@@ -139,6 +144,11 @@ strong {
 
 .jm-giga {
   font-size: 1.64rem;
+  line-height: 2.6rem;
+}
+
+.jm-giga-process {
+  font-size: 1.9rem;
   line-height: 2.6rem;
 }
 
@@ -291,15 +301,20 @@ strong {
   width: 85%;
 }
 
+.justify {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .fifty {
-  width: 70%;
+  width: 50%;
   margin-right: auto;
   margin-left: auto;
 }
 
-.justify {
-  text-align: justify;
-  text-justify: inter-word;
+.drop-shadow-phone {
+  box-shadow: 1px 1px 10px 1px #DDDDDD;
+  border-radius: 1rem;
 }
 
 @media only screen and (min-width: 38em) {
@@ -352,6 +367,12 @@ strong {
   .contact-gutter-2 {
     padding-left: 2.6rem;
     padding-right: 2.6rem;
+  }
+
+  .seventy {
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
   }
 
 }
@@ -471,8 +492,8 @@ strong {
 @media only screen and (min-width: 90em) {
 
   .timeline-gutter-xl {
-    padding-left: 5.7rem;
-    padding-right: 5.7rem;
+    padding-left: 4.8rem;
+    padding-right: 4.8rem;
   }
 
   .timeline-img-gutter-xl {

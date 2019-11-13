@@ -14,3 +14,12 @@ patterns:
       - name: objective
         type: string
         example: "This is the goal of the project; what am I trying to achieve."
+
+  final-design-ux:
+    title: "Final Design UX"
+    description: |
+      Final Design section for UX case studies.
+    fields:
+      - name: text
+        type: string
+        example: "What is the final result? How does it solve the user problem?"
