@@ -322,6 +322,18 @@ strong {
   text-justify: inter-word;
 }
 
+.ninety {
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.eighty {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .sixty {
   width: 60%;
   margin-right: auto;
@@ -334,8 +346,32 @@ strong {
   margin-left: auto;
 }
 
-.twenty {
+.forty {
   width: 40%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.thirty {
+  width: 30%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.twenty {
+  width: 20%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.ten {
+  width: 10%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.five {
+  width: 5%;
   margin-right: auto;
   margin-left: auto;
 }
@@ -343,6 +379,14 @@ strong {
 .drop-shadow-phone {
   box-shadow: 1px 1px 10px 1px #DDDDDD;
   border-radius: 1rem;
+}
+
+.tgi-beige {
+  background-color: #F4F0EA;
+}
+
+.tgi-gray {
+  background-color: #54565A;
 }
 
 @media only screen and (min-width: 38em) {
