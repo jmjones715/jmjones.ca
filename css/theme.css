@@ -389,6 +389,14 @@ strong {
   background-color: #54565A;
 }
 
+.anocate-gray {
+  background-color: #F5F5F5;
+}
+
+.anocate-blue {
+  background-color: #428CBF;
+}
+
 @media only screen and (min-width: 38em) {
 
   .jm-img-m {
