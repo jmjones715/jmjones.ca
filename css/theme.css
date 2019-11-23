@@ -346,8 +346,19 @@ strong {
   margin-left: auto;
 }
 
+.fifty-r {
+  width: 50%;
+  margin-right: auto;
+}
+
 .forty {
   width: 40%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.thirty-five {
+  width: 35%;
   margin-right: auto;
   margin-left: auto;
 }
@@ -360,6 +371,12 @@ strong {
 
 .twenty {
   width: 20%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.fifteen {
+  width: 15%;
   margin-right: auto;
   margin-left: auto;
 }
@@ -395,6 +412,33 @@ strong {
 
 .anocate-blue {
   background-color: #428CBF;
+}
+
+.evolve-pink {
+  background-color: #FFE2F2;
+}
+
+.evolve-purple {
+  background-color: #F5D5FF;
+}
+
+.evolve-red {
+  background-color: #FFCCDC;
+}
+
+.evolve-gray {
+  background-color: #FFF4FA;
+}
+
+.black {
+  background-color: #000000;
+}
+
+.fahel-max-length{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 55em;
+  width: 100%;
 }
 
 @media only screen and (min-width: 38em) {
