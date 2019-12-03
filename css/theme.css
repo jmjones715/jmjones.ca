@@ -441,7 +441,36 @@ strong {
   width: 100%;
 }
 
+.no-margin-l {
+  margin-left: 0;
+}
+
+.no-margin-r {
+  margin-right: 0;
+}
+
+.no-margin {
+  margin: 0;
+}
+
 @media only screen and (min-width: 38em) {
+
+  .center-m {
+    text-align: center;
+  }
+
+  .island-m {
+    padding: 1.3rem;
+  }
+
+  .island-2-m {
+    padding: 2.6rem;
+  }
+
+  .no-gutter-m {
+    padding-left: 0;
+    padding-right: 0;
+  }
 
   .jm-img-m {
     width: 60%;
@@ -502,6 +531,19 @@ strong {
 }
 
 @media only screen and (min-width: 60em) {
+
+  .island-l {
+    padding: 1.3rem;
+  }
+
+  .island-2-l {
+    padding: 2.6rem;
+  }
+
+  .no-gutter {
+    padding-left: 0;
+    padding-right: 0;
+  }
 
   .timeline-gutter-l {
     padding-left: 6rem;
