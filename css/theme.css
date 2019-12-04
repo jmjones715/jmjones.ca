@@ -334,6 +334,12 @@ strong {
   margin-left: auto;
 }
 
+.seventy {
+  width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .sixty {
   width: 60%;
   margin-right: auto;
@@ -455,6 +461,12 @@ strong {
 
 @media only screen and (min-width: 38em) {
 
+  .fifty-m {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
   .center-m {
     text-align: center;
   }
@@ -522,8 +534,20 @@ strong {
     padding-right: 2.6rem;
   }
 
-  .seventy {
+  .seventy-m {
     width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .eighty-m {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .fifty-m {
+    width: 50%;
     margin-right: auto;
     margin-left: auto;
   }
@@ -531,6 +555,12 @@ strong {
 }
 
 @media only screen and (min-width: 60em) {
+
+  .fifty-l {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+  }
 
   .island-l {
     padding: 1.3rem;
@@ -651,6 +681,18 @@ strong {
 
   .island-0 {
     padding: 0;
+  }
+
+  .eighty-l {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .thirty-l {
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
   }
 
 }
