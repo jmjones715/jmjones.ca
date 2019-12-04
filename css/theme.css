@@ -552,6 +552,12 @@ strong {
     margin-left: auto;
   }
 
+  .forty-m {
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
   .thirty-m {
     width: 30%;
     margin-right: auto;
@@ -703,6 +709,12 @@ strong {
 
   .forty-l {
     width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .fifty-l {
+    width: 50%;
     margin-right: auto;
     margin-left: auto;
   }
