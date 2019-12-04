@@ -552,6 +552,12 @@ strong {
     margin-left: auto;
   }
 
+  .thirty-m {
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -691,6 +697,12 @@ strong {
 
   .thirty-l {
     width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .forty-l {
+    width: 40%;
     margin-right: auto;
     margin-left: auto;
   }
