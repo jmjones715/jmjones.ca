@@ -1,3 +1,97 @@
+/* Eagle's Nest colours */
+.eagles-red {
+  border-radius: 25px;
+  background: #C01823;
+  padding: 6px;
+}
+
+.colour-black {
+  border-radius: 25px;
+  background: #000000;
+  padding: 6px;
+}
+
+/* TGI's colours */
+.tgi-gray-light {
+  border-radius: 25px;
+  background: #898A8D;
+  padding: 6px;
+}
+
+.tgi-gray-dark {
+  border-radius: 25px;
+  background: #54565A;
+  padding: 6px;
+}
+
+.tgi-beige-dark {
+  border-radius: 25px;
+  background: #F1D09F;
+  padding: 6px;
+}
+
+.tgi-beige-light {
+  border-radius: 25px;
+  background: #F4F0EA;
+  padding: 6px;
+}
+
+/* Anocate's colours */
+.anocate-blue-light {
+  border-radius: 25px;
+  background: #DEF5FF;
+  padding: 6px;
+}
+
+.anocate-blue {
+  border-radius: 25px;
+  background: #71B7E5;
+  padding: 6px;
+}
+
+.anocate-blue-dark {
+  border-radius: 25px;
+  background: #428CBF;
+  padding: 6px;
+}
+
+.anocate-gray-light {
+  border-radius: 25px;
+  background: #FAFAFA;
+  padding: 6px;
+}
+
+.anocate-gray-dark {
+  border-radius: 25px;
+  background: #8C8C8C;
+  padding: 6px;
+}
+
+/* Evolve's colours */
+.evolve-pink-c {
+  border-radius: 25px;
+  background: #E81F76;
+  padding: 6px;
+}
+
+.evolve-purple-c {
+  border-radius: 25px;
+  background: #5C0F8B;
+  padding: 6px;
+}
+
+.evolve-gradient-1 {
+  border-radius: 25px;
+  background-image: linear-gradient(to right, rgba(232,31,118,100), rgba(92,15,139,100));
+  padding: 6px;
+}
+
+.evolve-gradient-2 {
+  border-radius: 25px;
+  background-image: linear-gradient(to right, rgba(35,8,113,100), rgba(213,0,139,87));
+  padding: 6px;
+}
+
 .blue-gradient {
   background-image: linear-gradient(rgba(255,0,0,0), rgba(241,250,254,100));
 }
