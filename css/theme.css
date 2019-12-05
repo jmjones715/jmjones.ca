@@ -231,6 +231,10 @@ strong {
   padding-right: .1625rem;
 }
 
+.no-gutter-left {
+  padding-left: 0;
+}
+
 .resume-padding {
   padding: 0.35rem 1rem;
 }
@@ -459,6 +463,14 @@ strong {
   margin: 0;
 }
 
+@media only screen and (min-width: 25em) {
+
+  .center-s {
+    text-align: center;
+  }
+
+}
+
 @media only screen and (min-width: 38em) {
 
   .fifty-m {
@@ -485,7 +497,7 @@ strong {
   }
 
   .jm-img-m {
-    width: 60%;
+    width: 50%;
   }
 
   .pad-t-3-4-l {
@@ -501,7 +513,7 @@ strong {
   }
 
   .about-pad-t-3-4-m {
-    padding-top: 2rem;
+    padding-top: 4rem;
   }
 
   .no-margin-b {
@@ -534,6 +546,12 @@ strong {
     padding-right: 2.6rem;
   }
 
+  .sixty-m {
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
   .seventy-m {
     width: 70%;
     margin-right: auto;
@@ -564,9 +582,36 @@ strong {
     margin-left: auto;
   }
 
+  .no-margin-left-l {
+    margin-left: 0;
+  }
+
+  .left-m {
+    text-align: left;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
+
+  .left-l {
+    text-align: left;
+  }
+
+  .hundred-l {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+
+  .about-margin-t {
+    margin-top: 1.3rem;
+  }
+
+  .about-gutter-right-l {
+    padding-right: 3.5rem;
+  }
 
   .fifty-l {
     width: 50%;
@@ -588,8 +633,8 @@ strong {
   }
 
   .timeline-gutter-l {
-    padding-left: 6rem;
-    padding-right: 6rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   .timeline-island-l {
@@ -647,10 +692,6 @@ strong {
     text-align: left;
   }
 
-  .no-gutter-left {
-    padding-left: 0;
-  }
-
   .contact-pad-left-l {
     padding-left: 1.5rem;
   }
@@ -660,15 +701,15 @@ strong {
   }
 
   .about-pad-t-l {
-    padding-top: 6rem;
+    padding-top: 4rem;
   }
 
-  .about-gutter-left {
-    padding-left: 2.6rem;
+  .about-gutter-left-l {
+    padding-left: 1.6rem;
   }
 
-  .about-gutter-right {
-    padding-right: 11rem;
+  .gutter-left-l-1-2 {
+    padding-left: 0.65rem;
   }
 
   .what-i-do-push {
@@ -701,6 +742,12 @@ strong {
     margin-left: auto;
   }
 
+  .seventy-l {
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
   .thirty-l {
     width: 30%;
     margin-right: auto;
@@ -722,6 +769,27 @@ strong {
 }
 
 @media only screen and (min-width: 90em) {
+
+  .island-2-l {
+    padding: 2.6rem;
+  }
+
+  .gutter-xl {
+    padding-left: 1.3rem;
+    padding-right: 1.3rem;
+  }
+
+  .no-about-margin-t {
+    margin-top: 0;
+  }
+
+  .about-gutter-left-xl {
+    padding-left: 2.6rem;
+  }
+
+  .about-gutter-right-xl {
+    padding-right: 11rem;
+  }
 
   .timeline-gutter-xl {
     padding-left: 4.8rem;
