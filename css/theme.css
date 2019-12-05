@@ -599,9 +599,20 @@ strong {
     text-align: left;
   }
 
+  .no-pad-t-m {
+    padding-top: 0;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
+
+  .hidden-l {
+    /* stylelint-disable declaration-no-important */
+    display: none;
+    visibility: hidden;
+    /* stylelint-enable */
+  }
 
   .left-l {
     text-align: left;
