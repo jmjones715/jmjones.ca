@@ -595,6 +595,10 @@ strong {
     margin-left: 0;
   }
 
+  .no-margin-right-m {
+    margin-right: 0;
+  }
+
   .left-m {
     text-align: left;
   }

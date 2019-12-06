@@ -47,3 +47,21 @@ patterns:
       - name: image
         type: string
         example: "/images/eagles-nest/eagles-nest-final.png"
+
+  typography:
+    title: "Typography"
+    description: |
+      The goal of the project. What am I trying to achieve with the design?
+    fields:
+      - name: font-1
+        type: string
+        example: "AgencyFB (Black)"
+      - name: image-font-1
+        type: string
+        example: "/images/eagles-nest/fonts/agencyFB.png"
+      - name: font-2
+        type: string
+        example: "AgencyFB (Black)"
+      - name: image-font-2
+        type: string
+        example: "/images/eagles-nest/fonts/agencyFB.png"
