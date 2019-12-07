@@ -591,6 +591,18 @@ strong {
     margin-left: auto;
   }
 
+  .thirty-five-m {
+    width: 35%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .fifteen-m {
+    width: 15%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
   .no-margin-left-l {
     margin-left: 0;
   }
