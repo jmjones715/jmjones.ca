@@ -472,6 +472,7 @@ strong {
   margin: 0;
 }
 
+
 @media only screen and (min-width: 25em) {
 
   .center-s {
@@ -481,12 +482,6 @@ strong {
 }
 
 @media only screen and (min-width: 38em) {
-
-  .fifty-m {
-    width: 50%;
-    margin-right: auto;
-    margin-left: auto;
-  }
 
   .center-m {
     text-align: center;
@@ -555,8 +550,14 @@ strong {
     padding-right: 2.6rem;
   }
 
-  .sixty-m {
-    width: 60%;
+  .ninety-m {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .eighty-m {
+    width: 80%;
     margin-right: auto;
     margin-left: auto;
   }
@@ -567,8 +568,8 @@ strong {
     margin-left: auto;
   }
 
-  .eighty-m {
-    width: 80%;
+  .sixty-m {
+    width: 60%;
     margin-right: auto;
     margin-left: auto;
   }
@@ -640,6 +641,11 @@ strong {
     margin-left: auto;
   }
 
+  .twenty-l {
+    width: 20%;
+    margin-right: auto;
+    margin-left: auto;
+  }
 
   .about-margin-t {
     margin-top: 1.3rem;
@@ -647,12 +653,6 @@ strong {
 
   .about-gutter-right-l {
     padding-right: 3.5rem;
-  }
-
-  .fifty-l {
-    width: 50%;
-    margin-right: auto;
-    margin-left: auto;
   }
 
   .island-l {
@@ -792,6 +792,12 @@ strong {
 
   .forty-l {
     width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .sixty-l {
+    width: 60%;
     margin-right: auto;
     margin-left: auto;
   }
