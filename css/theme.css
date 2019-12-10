@@ -624,6 +624,11 @@ strong {
 
 @media only screen and (min-width: 60em) {
 
+  .no-gutter-large {
+    padding-left: 0rem;
+    padding-right: 0rem;
+  }
+
   .hidden-l {
     /* stylelint-disable declaration-no-important */
     display: none;
