@@ -53,6 +53,9 @@ patterns:
     description: |
       The goal of the project. What am I trying to achieve with the design?
     fields:
+      - name: text
+        type: string
+        example: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
       - name: font-1
         type: string
         example: "AgencyFB (Black)"
