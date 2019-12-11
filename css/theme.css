@@ -550,6 +550,12 @@ strong {
     padding-right: 2.6rem;
   }
 
+  .hundred-m {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
   .ninety-m {
     width: 90%;
     margin-right: auto;
@@ -775,6 +781,12 @@ strong {
 
   .island-0 {
     padding: 0;
+  }
+
+  .ninety-l {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
   }
 
   .eighty-l {
