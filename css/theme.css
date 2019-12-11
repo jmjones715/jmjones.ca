@@ -8,7 +8,7 @@
   --color-tertiary-dark-green: #cee7e8;
 
   --font-primary: "Open Sans", sans-serif;
-  --font-secondary: "Proxima Nova", sans-serif;
+  --font-secondary: proxima-nova, sans-serif;
 }
 
 html {

@@ -69,6 +69,10 @@
     padding: .545rem;
   }
 
+  .no-pad-t-m {
+    padding-top: 0;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
