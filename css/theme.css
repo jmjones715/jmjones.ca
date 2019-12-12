@@ -487,6 +487,10 @@ strong {
 
 @media only screen and (min-width: 38em) {
 
+  .no-pad-b-m {
+    padding-bottom: 0;
+  }
+
   .center-m {
     text-align: center;
   }
