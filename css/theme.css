@@ -412,6 +412,10 @@ strong {
   margin-left: auto;
 }
 
+.error-page-img {
+  background-image: url(/images/jmjones-background.jpg);
+}
+
 .drop-shadow-phone {
   box-shadow: 1px 1px 10px 1px #DDDDDD;
   border-radius: 1rem;
