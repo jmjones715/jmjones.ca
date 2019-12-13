@@ -2,13 +2,13 @@
   background-color: white;
 }
 
-.jm-i-192 {
-  height: 49.52px;
-  width: 160px;
-}
-
 .push-r {
   margin-right: 1.3rem;
+}
+
+.jm-i-128 {
+  height: 50px;
+  width: 128px;
 }
 
 @media only screen and (min-width: 38em) {
@@ -32,6 +32,15 @@
 
   .push-r-1-4 {
     margin-right: 0.65rem;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .jm-i-192 {
+    height: 49.52px;
+    width: 160px;
   }
 
 }
