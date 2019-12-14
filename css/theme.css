@@ -99,6 +99,10 @@ strong {
   color: var(color-primary-dark-blue);
 }
 
+.testimonial {
+  background-color: var(--color-primary-dark-blue);
+}
+
 .semi-bold {
   font-weight: 600;
   font-family: var(--font-primary);
@@ -634,6 +638,10 @@ strong {
 }
 
 @media only screen and (min-width: 60em) {
+
+  .no-pad-b-l {
+    padding-bottom: 0;
+  }
 
   .no-gutter-large {
     padding-left: 0rem;
