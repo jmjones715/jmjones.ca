@@ -11,6 +11,7 @@ layout: default
     <div class="grid contact-pad-left-l contact-pad-left-xl">
       <h3 class="unit xs-1 jm-giga text-center contact-text-left">Let’s Get Started.</h3>
 
+      <form method="POST" action="https://formspree.io/jmjones715@gmail.com">
         <div class="unit xs-1 s-1 m-1 l-1-2 push-1-2 gutter-r-1-2 gutter-r no-gutter-r-1-2">
           {% pattern forms/first-name %}
         </div>
@@ -30,11 +31,12 @@ layout: default
         <div class="unit xs-1 push-2 push-contact">
           {% pattern forms/message %}
         </div>
+      </form>
 
-        <ul class="list-group-inline push-0-m unit text-center contact-text-left xs-1">
-          <li class="gutter-1-2 no-gutter-left">{% pattern buttons/basic text="submit" %}</li>
-          <li class="gutter-1-2"><a class="bold link-box jm-kilo resume-padding"  target="_blank" rel="noopener" aria-label="View Resume" href="/resources/jm-jones-resume-2020.pdf">view resume</a></li>
-        </ul>
+      <ul class="list-group-inline push-0-m unit text-center contact-text-left xs-1">
+        <li class="gutter-1-2 no-gutter-left">{% pattern buttons/basic text="submit" %}</li>
+        <li class="gutter-1-2"><a class="bold link-box jm-kilo resume-padding"  target="_blank" rel="noopener" aria-label="View Resume" href="/resources/jm-jones-resume-2020.pdf">view resume</a></li>
+      </ul>
 
     </div>
   </div>
