@@ -100,7 +100,8 @@ strong {
 }
 
 .testimonial {
-  background-color: var(--color-primary-dark-blue);
+  background-image: url("../images/about/testimonial-cover.jpg");
+  background-size: cover;
 }
 
 .semi-bold {
