@@ -3,7 +3,7 @@
   color: var(--color-secondary-light-gray);
   border-color: var(--color-secondary-light-gray);
   border-radius: 20px;
-  border-width: 3.4px;
+  border-width: .155rem;
   padding: 0.35rem 1rem;
   font-family: var(--font-secondary);
   font-weight: 700;
