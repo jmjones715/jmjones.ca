@@ -73,6 +73,7 @@ a {
 
 a:hover {
   color: var(--color-primary-dark-blue);
+  transition: .5s ease;
 }
 
 .current {

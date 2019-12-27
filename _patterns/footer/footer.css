@@ -11,6 +11,10 @@
   width: 128px;
 }
 
+.transition {
+  transition: .5s ease;
+}
+
 @media only screen and (min-width: 38em) {
 
   .align-left {
