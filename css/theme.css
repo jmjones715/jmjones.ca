@@ -644,6 +644,10 @@ strong {
     padding-bottom: 0;
   }
 
+  .pad-b-l {
+    padding-bottom: 1.3rem;
+  }
+
   .no-gutter-large {
     padding-left: 0rem;
     padding-right: 0rem;
