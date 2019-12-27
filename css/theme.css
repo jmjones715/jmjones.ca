@@ -276,6 +276,10 @@ strong {
   opacity: .85;
 }
 
+.transition {
+  transition: .5s ease;
+}
+
 .text-overlay {
   color: white;
   position: absolute;
