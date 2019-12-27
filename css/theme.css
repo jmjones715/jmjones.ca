@@ -18,10 +18,12 @@ html {
 .skip-links a {
   position: absolute;
   top: -3em;
+  color: var(--color-primary-blue);
 }
 
 .skip-links a:focus {
   top: 0;
+  color: var(--color-primary-blue);
 }
 
 h1 {
@@ -86,10 +88,12 @@ a:hover {
 
 .a-dark:hover {
   color: var(--color-primary-dark-blue);
+  transition: .5s ease;
 }
 
 .hover-light:hover {
   color: var(--color-primary-blue);
+  transition: .5s ease;
 }
 
 mark {
