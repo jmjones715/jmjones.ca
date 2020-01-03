@@ -502,6 +502,8 @@ strong {
   margin: 0;
 }
 
+.text-
+
 
 @media only screen and (min-width: 25em) {
 
@@ -670,6 +672,14 @@ strong {
 }
 
 @media only screen and (min-width: 60em) {
+
+  .padding-left-l {
+    padding-left: 2.6rem;
+  }
+
+  .padding-right-l {
+    padding-right: 2.6rem;
+  }
 
   .eighty-five-l {
     width: 85%;
@@ -862,6 +872,12 @@ strong {
 
   .sixty-l {
     width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .fifty-six-l {
+    width: 56%;
     margin-right: auto;
     margin-left: auto;
   }
