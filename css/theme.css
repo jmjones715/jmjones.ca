@@ -349,8 +349,20 @@ strong {
   text-justify: inter-word;
 }
 
+.ninety-five {
+  width: 95%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .ninety {
   width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.eighty-five {
+  width: 85%;
   margin-right: auto;
   margin-left: auto;
 }
@@ -608,6 +620,12 @@ strong {
     margin-left: auto;
   }
 
+  .forty-three-m {
+    width: 43%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
   .forty-m {
     width: 40%;
     margin-right: auto;
@@ -644,10 +662,20 @@ strong {
     text-align: left;
   }
 
+  .right-m {
+    text-align: right;
+  }
+
 
 }
 
 @media only screen and (min-width: 60em) {
+
+  .eighty-five-l {
+    width: 85%;
+    margin-right: auto;
+    margin-left: auto;
+  }
 
   .no-pad-b-l {
     padding-bottom: 0;
