@@ -91,6 +91,43 @@
   background-image: linear-gradient(to right, rgba(35,8,113,100), rgba(213,0,139,87));
   padding: 6px;
 }
+
+/* Fahel & Co colours */
+.fahel-green {
+  border-radius: 25px;
+  background: #74BF48;
+  padding: 6px;
+}
+
+.fahel-green-dark {
+  border-radius: 25px;
+  background: #32710E;
+  padding: 6px;
+}
+
+.fahel-green-light {
+  border-radius: 25px;
+  background: #A1DD7E;
+  padding: 6px;
+}
+
+.fahel-gray {
+  border-radius: 25px;
+  background: #C9C9C9;
+  padding: 6px;
+}
+
+.fahel-gray-light {
+  border-radius: 25px;
+  background: #F1F1F1;
+  padding: 6px;
+}
+
+.fahel-gray-dark {
+  border-radius: 25px;
+  background: #454545;
+  padding: 6px;
+}
 /* End of Case Study Colours */
 
 .blue-gradient {
