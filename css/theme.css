@@ -668,6 +668,10 @@ strong {
     text-align: right;
   }
 
+  .no-margin-t-m {
+    margin-top: 0rem;
+  }
+
 
 }
 
@@ -806,6 +810,10 @@ strong {
 
   .push-contact {
     margin-bottom: 1.8rem;
+  }
+
+  .pad-t-l-home {
+    padding-top: 2rem;
   }
 
   .about-pad-t-l {
