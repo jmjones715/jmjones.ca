@@ -272,6 +272,10 @@ strong {
   width: 100%;
 }
 
+.work-center {
+  justify-content: center;
+}
+
 .container {
   position: relative;
 }
