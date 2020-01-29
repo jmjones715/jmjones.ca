@@ -7,9 +7,9 @@ patterns:
       - name: title
         type: string
         example: "Eagle's Nest"
-        - name: category
-          type: string
-          example: "Branding, Logo Design"
+      - name: category
+        type: string
+        example: "Branding, Logo Design"
       - name: image-large
         type: string
         example: "/images/banners/large/eagles-nest-banner.jpg"
