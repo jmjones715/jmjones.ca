@@ -10,6 +10,9 @@ patterns:
         - name: category
           type: string
           example: "Branding, Logo Design"
-      - name: image
+      - name: image-large
         type: string
-        example: "eagles-nest-banner.jpg"
+        example: "/images/banners/large/eagles-nest-banner.jpg"
+      - name: image-mobile
+        type: string
+        example: "/images/banners/small/eagles-nest-banner-mobile.jpg"
