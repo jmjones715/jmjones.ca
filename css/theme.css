@@ -650,11 +650,18 @@ strong {
     margin-left: auto;
   }
 
+  .twenty-m {
+    width: 20%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
   .fifteen-m {
     width: 15%;
     margin-right: auto;
     margin-left: auto;
   }
+
 
   .no-margin-left-l {
     margin-left: 0;

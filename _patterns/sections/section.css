@@ -128,6 +128,42 @@
   background: #454545;
   padding: 6px;
 }
+
+/* Autism World Travel colours */
+.awt-blue {
+  border-radius: 25px;
+  background: #99DAE8;
+  padding: 6px;
+}
+
+.awt-yellow {
+  border-radius: 25px;
+  background: #FCD561;
+  padding: 6px;
+}
+
+.awt-orange {
+  border-radius: 25px;
+  background: #FFA16E;
+  padding: 6px;
+}
+
+.awt-green-light {
+  background-color: #e3f3f1;
+}
+
+.awt-blue-light {
+  background-color: #eff9fe;
+}
+
+.awt-yellow-light {
+  background-color: #fffcdf;
+}
+
+.awt-orange-light {
+  background-color: #fff7e5;
+}
+
 /* End of Case Study Colours */
 
 .blue-gradient {
