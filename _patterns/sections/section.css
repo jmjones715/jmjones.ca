@@ -152,6 +152,18 @@
   background-color: #e3f3f1;
 }
 
+/* Working method */
+.tinted-image {
+  background:
+    /* top, transparent colour, faked with gradient */
+    linear-gradient(
+      rgba(226, 255, 255, 0.9),
+      rgba(227, 243, 241, 0.9)
+    ),
+    /* bottom, image */
+    url(../images/banners/large/awt-banner.jpg);
+}
+
 .awt-blue-light {
   background-color: #eff9fe;
 }
