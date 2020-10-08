@@ -1006,3 +1006,12 @@ strong {
   }
 
 }
+
+@media only screen and (min-width: 90em) {
+
+  .jm-exa {
+    font-size: 6rem;
+    line-height: 7.475rem;
+  }
+
+}
