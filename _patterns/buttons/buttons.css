@@ -50,17 +50,17 @@
   transition: .5s ease;
 }
 
-@media only screen and (min-width: 187em) {
+@media only screen and (min-width: 156em) {
 
   .btn {
-    border-radius: 26px;
-    border-width: .200rem;
-    padding: 0.35rem 1rem;
+    border-radius: 22px;
+    border-width: .193rem;
+    padding: 0.35rem 1.2rem;
   }
 
   .jm-kilo-xxl {
-    font-size: 1.18rem;
-    line-height: 1.95rem;
+    font-size: .955rem;
+    line-height: 1.5rem;
   }
 
 }

@@ -586,7 +586,7 @@
 
 }
 
-@media only screen and (min-width: 187em) {
+@media only screen and (min-width: 156em) {
 
   .gray-gradient-ilus-xxl {
     background-image:
@@ -594,7 +594,7 @@
       linear-gradient(to right, rgba(255,255,255,100), rgba(243,243,243,100), rgba(219,218,218,100)) calc(100% - 3.05em), white calc(100% - 3em), white 100%)
     ;
     background-size: cover;
-    margin-bottom: 7rem;
+    margin-bottom: 5rem;
     margin-top: 0rem;
   }
 
@@ -606,6 +606,10 @@
 
   .pad-left-illus-xxl {
     padding-left: 20rem;
+  }
+
+  .questions-pad-b-xxl {
+    padding-bottom: 3.9rem;
   }
 
 }
