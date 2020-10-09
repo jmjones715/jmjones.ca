@@ -92,10 +92,9 @@
     width: 38px;
   }
 
-  .btn {
-    border-radius: 22px;
-    border-width: .193rem;
-    padding: 0.35rem 1.2rem;
+  .jm-body-xxl {
+    font-size: .955rem;
+    line-height: 1.5rem;
   }
 
 }
