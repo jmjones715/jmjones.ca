@@ -92,5 +92,10 @@
     width: 38px;
   }
 
+  .btn {
+    border-radius: 22px;
+    border-width: .193rem;
+    padding: 0.35rem 1.2rem;
+  }
 
 }
