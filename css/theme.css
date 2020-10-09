@@ -1055,6 +1055,10 @@ strong {
     padding-top: 9rem;
   }
 
+  .pad-t-xxl-contact {
+    padding-top: 7rem;
+  }
+
   .gutter-xxl {
     padding-left: 5.2rem;
     padding-right: 5.2rem;
@@ -1116,6 +1120,16 @@ strong {
     border-radius: 2.85rem;
     transition: .5s ease;
     background-color: var(--color-primary-blue);
+  }
+
+  .seventy-xxl {
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .contact-pad-right-xxl {
+    padding-right: 12rem;
   }
 
 }
