@@ -612,4 +612,38 @@
     padding-bottom: 3.9rem;
   }
 
+  .jm-body-xxl {
+    font-size: .955rem;
+    line-height: 1.5rem;
+  }
+
+  .max-length-skills-xxl {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 42em;
+    width: 100%;
+  }
+
+  .island-skills-xxl {
+    padding: 8.9rem;
+  }
+
+  .island-vector-art-xxl {
+    padding-top: 0;
+    padding-bottom: 2.6rem;
+    padding-left: 8.9rem;
+    padding-right: 8.9rem;
+  }
+
+  .vector-art-no-pad-b-xxl {
+    padding-bottom: 0;
+    margin-top: 12rem;
+  }
+
+  .eighty-xxl {
+    width: 85%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
 }
