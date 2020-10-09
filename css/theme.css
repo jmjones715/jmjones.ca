@@ -176,9 +176,19 @@ strong {
   line-height: 1.95rem;
 }
 
+.jm-mega-2 {
+  font-size: 1.18rem;
+  line-height: 1.3rem;
+}
+
 .jm-kilo {
   font-size: .825rem;
   line-height: 1.3rem;
+}
+
+.jm-kilo-2 {
+  font-size: .825rem;
+  line-height: 1.15rem;
 }
 
 .text-indent {
@@ -297,6 +307,7 @@ strong {
   position: absolute;
   top: 50%;
   left: 50%;
+  width: 75%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
@@ -1080,6 +1091,31 @@ strong {
 
   .padding-b-2-xxl {
     padding-bottom: 2.6rem;
+  }
+
+  .text-overlay-xxl {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .overlay-xxl {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 5%;
+    right: 0;
+    height: 100%;
+    width: 90%;
+    opacity: 0;
+    border-radius: 2.85rem;
+    transition: .5s ease;
+    background-color: var(--color-primary-blue);
   }
 
 }
