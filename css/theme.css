@@ -1026,9 +1026,9 @@ strong {
     line-height: 4.5rem;
   }
 
-  .jm-tera {
-    font-size: 2.45rem;
-    line-height: 3.9rem;
+  .jm-tera-xxl {
+    font-size: 3.2rem;
+    line-height: 3.6rem;
   }
 
   .jm-giga-xxl {
@@ -1059,6 +1059,14 @@ strong {
     padding-top: 7rem;
   }
 
+  .pad-t-xxl-about {
+    padding-top: 13rem;
+  }
+
+  .pad-b-xxl-about {
+    padding-bottom: 1.3rem;
+  }
+
   .gutter-xxl {
     padding-left: 5.2rem;
     padding-right: 5.2rem;
@@ -1087,6 +1095,10 @@ strong {
 
   .margin-b-xxl {
     margin-bottom: 1.3rem;
+  }
+
+  .what-i-do-b-xxl {
+    margin-bottom: 28rem;
   }
 
   .padding-t-2-xxl {
@@ -1131,5 +1143,33 @@ strong {
   .contact-pad-right-xxl {
     padding-right: 12rem;
   }
+
+  .about-gutter-left-xxl {
+    padding-left: 3.9rem;
+  }
+
+  .about-gutter-right-xxl {
+    padding-right: 22rem;
+  }
+
+  .max-length-xxl {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 52em;
+    width: 100%;
+  }
+
+  .about-left-xxl {
+    margin-left: 18%;
+  }
+
+  .about-text-left-xxl {
+    margin-left: 3.1rem;
+  }
+
+  .jm-img-xxl {
+    width: 120%;
+  }
+
 
 }
