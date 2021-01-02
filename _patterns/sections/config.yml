@@ -44,6 +44,9 @@ patterns:
     description: |
       The goal of the project. What am I trying to achieve with the design?
     fields:
+      - name: title
+        type: string
+        example: "Final Design"
       - name: text
         type: string
         example: "This is the final design. Explain what the result is, what feedback has been recieved. Did the design achieve the project objective?"
