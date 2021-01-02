@@ -32,6 +32,9 @@ patterns:
     description: |
       The goal of the project. What am I trying to achieve with the design?
     fields:
+      - name: title
+        type: string
+        example: "Project Objective?"
       - name: text
         type: string
         example: "What is the final result? How does it solve the user problem?"
