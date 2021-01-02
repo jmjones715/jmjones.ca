@@ -20,6 +20,9 @@ patterns:
     description: |
       Final Design section for UX case studies.
     fields:
+      - name: title
+        type: string
+        example: "Final Design"
       - name: text
         type: string
         example: "What is the final result? How does it solve the user problem?"
