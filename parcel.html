@@ -15,9 +15,132 @@ layout: default
   {% pattern sections/problem-objective problem="The UX and Dev teams needed help designing and documenting the Design System’s pages. Also, the design system needed a visual identity, since it will be made available to Kinaxis’ clients in the future." objective="To design and document where each of our UI components are being used. I will need to review and update the UX style guide consistently, so that the Dev team can refer to it while creating design system components." %}
 </div>
 
+<!-- What is a Design System -->
 <div class="island island-0 max-length">
   <h3 class="jm-tera jm-tera-xxl center-l pad-t-2 bold main-dark-blue">What is a Design System?</h3>
   <h4 class="jm-giga center-l extra-bold dark-gray push-0 pad-b-1-2 pad-t-2">It’s not just a Pattern Library</h4>
-  <p class="jm-kilo pad-b-2 push-0 max-length-case-study">A design system is a lot more than just UI components. Design systems group all the elements that will allow the teams to design, realize and develop a product. This includes UI components, branding and identity, accessibility, technical documentation and a lot more.</p>
+  <p class="jm-kilo pad-b-2 push-0">A design system is a lot more than just UI components. Design systems group all the elements that will allow the teams to design, realize and develop a product. This includes UI components, branding and identity, accessibility, technical documentation and a lot more.</p>
   <blockquote class="main-dark-blue">“A design system is a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications.”</blockquote>
+  <p class="jm-kilo pad-b-2 push-0">InVision’s handbook</p>
+</div>
+
+<!-- Why Design System -->
+<div class="island island-0 max-length">
+  <h4 class="jm-giga center-l extra-bold dark-gray push-0 pad-b-1-2 pad-t-2">Why a Design System?</h4>
+  <p class="jm-kilo jm-body-xxl gray bold center-l">A Design System is necessary because they:</p>
+  <ul>
+    <li class="jm-kilo jm-body-xxl push-1-2 main-blue semi-bold">Promote UI consistency & cohesion</li>
+    <li class="jm-kilo jm-body-xxl push-1-2 main-blue semi-bold">Allow for faster, higher quality production</li>
+    <li class="jm-kilo jm-body-xxl push-1-2 main-blue semi-bold">Have shared vocabulary</li>
+    <li class="jm-kilo jm-body-xxl push-1-2 main-blue semi-bold">Are easier to test</li>
+    <li class="jm-kilo jm-body-xxl push-1-2 main-blue semi-bold">Are a useful reference</li>
+    <li class="jm-kilo jm-body-xxl push-1-2 main-blue semi-bold">Is a future-friendly foundation</li>
+  </ul>
+</div>
+
+<!-- Storybook -->
+<div class="grid pad-t-2 pad-b-2 max-length-case-study max-length-case-study-xxl">
+
+  <div class="unit xs-1 s-1 m-1 l-1-2 text-left case-study-pad-right island pad-left-illus pad-left-illus-xl">
+    <div class="max-length">
+      <h4 class="jm-giga jm-giga-xxl extra-bold dark-gray push-0 pad-b-1-2">Using Storybook</h4>
+      <p class="jm-kilo jm-body-xxl push-1-2">It was decided that the design system components would be documented in Storybook. There are a few good reasons to use Storybook as the Design system platform:</p>
+      <ul>
+        <li class="jm-kilo jm-body-xxl push-1-2 main-blue semi-bold">It makes it easy to build components in isolation, outside of your app.</li>
+        <li class="jm-kilo jm-body-xxl push-1-2 main-blue semi-bold">It increases developer awareness of existing components.</li>
+        <li class="jm-kilo jm-body-xxl push-1-2 main-blue semi-bold">It serves as a living style guide and documentation.</li>
+        <li class="jm-kilo jm-body-xxl push-1-2 main-blue semi-bold">It makes it easy to visually test edge cases.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="unit xs-1 s-1 m-1 l-1-2 text-left case-study-pad-left island pad-right-illus pad-right-illus-xl">
+    <img class="img-flex text-center push" src="/images/anocate/app/personas/anocate-persona-2.png">
+    <p class="jm-kilo jm-body-xxl push-1-2"><i>“Storybook is an open source tool for developing UI components in isolation for React, Vue, Angular, and more. It makes building stunning UIs organized and efficient.”</i></p>
+  </div>
+
+</div>
+
+<!-- H3: Parcel Logo -->
+<div class="island island-0 max-length">
+  <h3 class="jm-tera jm-tera-xxl center-l pad-t-2 bold main-dark-blue">Designing the Parcel Logo</h3>
+  <p class="jm-kilo jm-body-xxl push-0">Before diving into Storybook documentation, I needed to create a visual identity for the design system. We (select members from the UX and Dev team) chose to name it ‘Parcel’. The idea was to choose a name that’s related to our product (supply chain management).</p>
+</div>
+
+<!-- The Logo -->
+<div class="pad-t-2">
+  {% pattern sections/final-design title="The Logo" text="The logo needed to be simple and modern. It was inspired by modern tech brands The concept of the icon is a box containing a parcel. This represents the supply chain industry." image="/images/anocate/brand/anocate-logo-1.png" %}
+</div>
+
+<div class="pad-t-1-4 pad-b-1-8">
+  <img class="img-flex" src="/images/tgi/tgi-marble-dark.jpg">
+</div>
+
+<div class="pad-t-1-8">
+  <img class="img-flex" src="/images/tgi/tgi-marble-light.jpg">
+</div>
+
+<p class="text-center milli bold margin-t">Icon</p>
+<div class="grid">
+  <div class="unit xs-1 s-1 m-1-2 island-2 tgi-beige">
+    <img class="img-flex thirty" src="/images/tgi/tgi-icon.png">
+  </div>
+
+  <div class="unit xs-1 s-1 m-1-2 island-2 tgi-gray">
+    <img class="img-flex thirty" src="/images/tgi/tgi-icon-light.png">
+  </div>
+</div>
+
+<!-- Typography -->
+{% pattern sections/typography text="I chose AgencyFB because of its strong build and athletic feel. The font is not overly agressive, but it still feels confident — it dosen't discriminate against people who are less experienced in the gym. This refelects Eagle's Nest perfectly, since they aim to help clients of all levels improve their physique and overall fitness level." font-1="AgencyFB (Black)" image-font-1="/images/eagles-nest/fonts/agencyFB.png" %}
+
+<!-- Colours -->
+<div class="grid island-2-l island">
+  <div class="unit xs-1 s-1 m-1 l-1-2 jm-island-2 center-l left push-2 no-push pad-left-2 pad-left-4">
+    <h4 class="jm-giga bold dark-gray push-0 pad-b-1-2">Colours</h4>
+    <p class="jm-kilo push-0">Though these colours tend to represent femininity, they were also chosen to show warmth, passion and confidence. The shades of pink and purple are rich and bold, which perfectly caputure Evolve's message. The warmth of the hot pink also refelcts the heat or "drive" of the flame.</p>
+  </div>
+
+  <ul class="unit xs-1 s-1 m-1 l-1-2 center-l left list-group push-0 jm-island-2">
+    <li class="jm-kilo semi-bold push gray">Primary</li>
+    <li class="push">
+      <div class="evolve-pink-c"><p class="push-0 white jm-kilo proxima-nova text-center">#9E005D</p></div>
+    </li>
+    <li class="push">
+      <div class="evolve-pink-c"><p class="push-0 white jm-kilo proxima-nova text-center">#93278F</p></div>
+    </li>
+    <li class="push">
+      <div class="evolve-purple-c"><p class="push-0 white jm-kilo proxima-nova text-center">#29ABE2</p></div>
+    </li>
+
+    <li class="jm-kilo semi-bold push gray">Gradient</li>
+    <li class="push">
+      <div class="evolve-gradient-2"><p class="push-0 white jm-kilo proxima-nova text-center">gradient</p></div>
+    </li>
+  </ul>
+</div>
+
+<!-- Logo Guide -->
+<div class="island island-0 max-length">
+  <h4 class="jm-giga center-l extra-bold dark-gray push-0 pad-b-1-2 pad-t-2">Logo Guide</h4>
+  <p class="jm-kilo jm-body-xxl push-2">I created a guide for the Parcel logo. The logo guide outlines specifics such as colours, typography, clear space, etc. To see the full logo guide, click here.</p>
+  <img class="img-flex text-center push" src="/images/anocate/app/personas/anocate-persona-2.png">
+</div>
+
+<!-- H3: Documentation -->
+<div class="island island-0 max-length">
+  <h3 class="jm-tera jm-tera-xxl center-l pad-t-2 bold main-dark-blue">Documentation</h3>
+  <p class="jm-kilo jm-body-xxl push-0">Though I wasn’t apart of building the design system from the ground up, I still had an important role to play. I was tasked to design the documentation pages — pages that display UI components, guidelines and usages.</p>
+</div>
+
+<!-- Inspirations -->
+<div class="island island-0 max-length">
+  <h4 class="jm-giga center-l extra-bold dark-gray push-0 pad-b-1-2 pad-t-2">Inspirations</h4>
+  <p class="jm-kilo jm-body-xxl push-2">I needed to get an idea of how to document our components. I looked at some of the most refined and well-documented design systems out there including: Shopify, Google and IBM. Their documentation pages are very thorough and provided lots of detailed examples.</p>
+  <img class="img-flex text-center push-1-2" src="/images/anocate/app/personas/anocate-persona-2.png">
+  <p class="jm-kilo jm-body-xxl text-center">Shopify’s Polaris Design System</p>
+  <img class="img-flex text-center push-1-2" src="/images/anocate/app/personas/anocate-persona-1.png">
+  <p class="jm-kilo jm-body-xxl text-center">Googles’ Material Design System</p>
+  <img class="img-flex text-center push-1-2" src="/images/anocate/app/personas/anocate-persona-2.png">
+  <p class="jm-kilo jm-body-xxl text-center">IMB’s Carbon Design System</p>
 </div>
