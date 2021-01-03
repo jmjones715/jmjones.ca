@@ -152,6 +152,31 @@
   background-color: #e3f3f1;
 }
 
+/* Parcel's Colours */
+.parcel-red {
+  border-radius: 25px;
+  background: #9E005D;
+  padding: 6px;
+}
+
+.parcel-purple {
+  border-radius: 25px;
+  background: #93278F;
+  padding: 6px;
+}
+
+.parcel-blue {
+  border-radius: 25px;
+  background: #29ABE2;
+  padding: 6px;
+}
+
+.parcel-gradient {
+  border-radius: 25px;
+  background-image: linear-gradient(to right, #9e005d, #9e0666, #9d0e6f, #9b1679, #981d82, #923495, #8845a7, #7c55b7, #636fcc, #4685da, #2c99e0, #29abe2);
+  padding: 6px;
+}
+
 /* Working method */
 .tinted-image {
   background:
