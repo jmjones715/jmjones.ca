@@ -521,6 +521,14 @@ strong {
   margin: 0;
 }
 
+.dark-mode {
+  background-color: #1A1A1A;
+}
+
+.drop-shadow-dm {
+  box-shadow: 12px 12px 22px rgba(0, 0, 0, 0.65);
+}
+
 
 @media only screen and (min-width: 25em) {
 
