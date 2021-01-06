@@ -529,6 +529,10 @@ strong {
   box-shadow: 12px 12px 22px rgba(0, 0, 0, 0.65);
 }
 
+.dm-text {
+  color: #B2B2B2;
+}
+
 
 @media only screen and (min-width: 25em) {
 
@@ -882,6 +886,12 @@ strong {
 
   .ninety-l {
     width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .ninety-five-l {
+    width: 95%;
     margin-right: auto;
     margin-left: auto;
   }
