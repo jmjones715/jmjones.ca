@@ -541,6 +541,10 @@ strong {
   color: #B2B2B2;
 }
 
+.bullets-left {
+  margin-left: 1.3rem;
+}
+
 
 @media only screen and (min-width: 25em) {
 
