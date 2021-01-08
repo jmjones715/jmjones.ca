@@ -552,7 +552,7 @@ strong {
 }
 
 .dark-mode {
-  background-color: #1A1A1A;
+  background-color: #1F1F1F;
 }
 
 .drop-shadow-dm {
@@ -763,6 +763,12 @@ strong {
     width: 85%;
     margin-right: auto;
     margin-left: auto;
+  }
+
+  .eighty-dg-l {
+    width: 80%;
+    margin-right: auto;
+    margin-left: 0;
   }
 
   .no-pad-b-l {
