@@ -1105,6 +1105,10 @@ strong {
     line-height: 1.5rem;
   }
 
+  .pad-t-xxl {
+    padding-top: 1.3rem;
+  }
+
   .pad-t-xxl-index {
     padding-top: 9rem;
   }
