@@ -462,7 +462,7 @@ strong {
 }
 
 .drop-shadow-phone {
-  box-shadow: 1px 1px 10px 1px #DDDDDD;
+  box-shadow: 0px 20px 55px rgba(0, 0, 0, 0.12);
   border-radius: 1rem;
 }
 
@@ -526,6 +526,28 @@ strong {
 }
 
 .drop-shadow-soft {
+  box-shadow: 0px 70px 100px rgba(0, 0, 0, 0.15);
+}
+
+.drop-shadow-soft-2 {
+  box-shadow: 0px 60px 85px rgba(0, 0, 0, 0.08);
+}
+
+.drop-shadow-soft-3 {
+  box-shadow: 0px 60px 85px rgba(0, 0, 0, 0.22);
+}
+
+.drop-shadow-empathy {
+  box-shadow: 0px 70px 95px rgba(0, 0, 0, 0.08);
+  border-radius: 6px;
+}
+
+.drop-shadow-persona {
+  box-shadow: 0px 60px 85px rgba(0, 0, 0, 0.08);
+  border-radius: 6px;
+}
+
+.drop-shadow-reg {
   box-shadow: 12px 12px 22px rgba(0, 0, 0, 0.15);
 }
 
@@ -534,7 +556,11 @@ strong {
 }
 
 .drop-shadow-dm {
-  box-shadow: 12px 12px 22px rgba(0, 0, 0, 0.65);
+  box-shadow: 0px 40px 75px rgba(0, 0, 0, 0.50);
+}
+
+.drop-shadow-dm-soft {
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.40);
 }
 
 .dm-text {
