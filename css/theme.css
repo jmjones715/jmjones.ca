@@ -1105,8 +1105,8 @@ strong {
     line-height: 1.5rem;
   }
 
-  .pad-t-xxl {
-    padding-top: 1.3rem;
+  .margin-t-xxl {
+    margin-top: 1.3rem;
   }
 
   .pad-t-xxl-index {
@@ -1235,7 +1235,7 @@ strong {
   .max-length-xxl-row-2 {
     margin-left: auto;
     margin-right: auto;
-    max-width: 108em;
+    max-width: 101.5em;
     width: 100%;
   }
 
