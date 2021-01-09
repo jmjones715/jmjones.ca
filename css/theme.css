@@ -302,6 +302,10 @@ strong {
   transition: .5s ease;
 }
 
+.border-t {
+  border-top: 2px solid #EFEFEF;
+}
+
 .text-overlay {
   color: white;
   position: absolute;
