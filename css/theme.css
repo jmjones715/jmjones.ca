@@ -102,6 +102,7 @@ mark {
 
 strong {
   color: var(color-primary-dark-blue);
+  font-family: var(--font-primary);
 }
 
 .testimonial {
@@ -111,7 +112,6 @@ strong {
 
 .semi-bold {
   font-weight: 600;
-  font-family: var(--font-primary);
 }
 
 .extra-bold {
