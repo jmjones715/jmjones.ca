@@ -553,6 +553,10 @@ strong {
   box-shadow: 0px 60px 85px rgba(0, 0, 0, 0.22);
 }
 
+.drop-shadow-soft-4 {
+  box-shadow: 0px 20px 60px rgba(0, 0, 0, 0.05);
+}
+
 .drop-shadow-empathy {
   box-shadow: 0px 70px 95px rgba(0, 0, 0, 0.08);
   border-radius: 6px;
